@@ -1,0 +1,720 @@
+[
+    {
+        "id": 432306,
+        "name": "Farofa de Mandioca Tradicional Típica D' Goiás 400g",
+        "price": 14.79,
+        "img": "616655.png",
+        "brand": "D Goias",
+        "category": "alimentos"
+      },
+      {
+        "id": 433244,
+        "name": "Feijoada Qualitá Lata 420g",
+        "price": 11.29,
+        "img": "583226.png",
+        "brand": "Qualitá",
+        "category": "alimentos"
+      },
+      {
+        "id": 454418,
+        "name": "Frango Inteiro SWIFT 2,5kg",
+        "price": 26.15,
+        "img": "19417938.jpg",
+        "brand": "Swift",
+        "category": "alimentos"
+      },
+      {
+        "id": 445688,
+        "name": "Tomate Pera Orgânico 300g",
+        "price": 8.4,
+        "img": "23981441.jpg",
+        "brand": "Bandeiras",
+        "category": "alimentos"
+      },
+      {
+        "id": 129204,
+        "name": "Azeitona Verde LA VIOLETERA 500g",
+        "price": 23.49,
+        "img": "547782.jpg",
+        "brand": "La Violetera",
+        "category": "alimentos"
+      },
+      {
+        "id": 445677,
+        "name": "Tomate Caqui Orgânico 300g",
+        "price": 4.71,
+        "img": "23981439.jpg",
+        "brand": "Bandeiras",
+        "category": "alimentos"
+      },
+      {
+        "id": 435543,
+        "name": "Marshmallow Colorido QUALITÁ 150g",
+        "price": 13.29,
+        "img": "23249670.png",
+        "brand": "Qualitá",
+        "category": "alimentos"
+      },
+      {
+        "id": 41329,
+        "name": "Arroz Agulhinha Tipo 1 CAMIL Pacote 5kg",
+        "price": 22.79,
+        "img": "529779.jpg",
+        "brand": "Camil",
+        "category": "alimentos"
+      },
+      {
+        "id": 147694,
+        "name": "Macarrão Italiano Espaghetti Nº 5 BARILLA 500g",
+        "price": 11.49,
+        "img": "615315.png",
+        "brand": "Barilla",
+        "category": "alimentos"
+      },
+      {
+        "id": 152052,
+        "name": "Café Pilão Torrado E Moído Tradicional Almofada 500g",
+        "price": 22.79,
+        "img": "669659.jpg",
+        "brand": "Pilão",
+        "category": "alimentos"
+      },
+      {
+        "id": 100849,
+        "name": "Azeite de Oliva Extra Virgem Clássico Português Gallo Vidro 500ml",
+        "price": 31.29,
+        "img": "668389.png",
+        "brand": "Gallo",
+        "category": "alimentos"
+      },
+      {
+        "id": 291987,
+        "name": "Tomate Pelado CASINO Lata 400g",
+        "price": 7.29,
+        "img": "634662.png",
+        "brand": "Casíno",
+        "category": "alimentos"
+      },
+      {
+        "id": 131958,
+        "name": "Atum Sólido GOMES DA COSTA Lata 120g",
+        "price": 10.79,
+        "img": "19918591.jpg",
+        "brand": "Gomes Da Costa",
+        "category": "alimentos"
+      },
+      {
+        "id": 50670,
+        "name": "Leite Condensado MOÇA Lata 395g",
+        "price": 9.49,
+        "img": "20081667.jpg",
+        "brand": "Moça",
+        "category": "alimentos"
+      },
+      {
+        "id": 131661,
+        "name": "Óleo de Soja LIZA Pet 900ml",
+        "price": 9.39,
+        "img": "21772541.jpg",
+        "brand": "Liza",
+        "category": "alimentos"
+      },
+      {
+        "id": 43804,
+        "name": "Creme de Leite NESTLÉ 200g",
+        "price": 4.79,
+        "img": "19544696.jpg",
+        "brand": "Nestlé",
+        "category": "alimentos"
+      },
+      {
+        "id": 1375935,
+        "name": "Filé de peito bandeja Seara Orgânico 600g + Seleta mista congelada Seara Nature 1,05kg",
+        "price": 41.98,
+        "img": "23714937.jpg",
+        "category": "alimentos"
+      },
+      {
+        "id": 557472,
+        "name": "Kit MOLICO Desnatado Lata 280g + Café Solúvel NESCAFÉ Original 50g",
+        "price": 25.28,
+        "img": "12654443.jpg",
+        "category": "alimentos"
+      },
+      {
+        "id": 342435,
+        "name": "Kit com 6 Pacotes de Biscoito OREO Recheado com Baunilha Original 36g Cada",
+        "price": 12.54,
+        "img": "520644.jpg",
+        "brand": "Oreo",
+        "category": "alimentos"
+      },
+      {
+        "id": 457884,
+        "name": "ESPONJA BELLIZ MAKE-",
+        "price": 28.39,
+        "img": "649239.jpg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458383,
+        "name": "Sébium Gel Moussant de Limpeza Facial 100 ml",
+        "price": 42,
+        "img": "15476214.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458370,
+        "name": "PHOTODERM NUD MUITO",
+        "price": 99,
+        "img": "650568.jpg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458363,
+        "name": "Bioderma Sébium Pore Refiner 30ml",
+        "price": 102,
+        "img": "12950454.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 292731,
+        "name": "Hidratante Facial Oil Free NEUTROGENA Fator 30 50ml",
+        "price": 31.99,
+        "img": "9578087.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 684725,
+        "name": "NIVEA Serum Facial Cellular Luminous 630 30ml",
+        "price": 135.99,
+        "img": "19759627.jpeg",
+        "brand": "Nivea",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 457846,
+        "name": "Neostrata MINESOL Oil Control FPS 70 40g",
+        "price": 89.99,
+        "img": "21508820.jpg",
+        "brand": "Roc",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 703811,
+        "name": "Sabonete em barra Dolce Vivere Portofino Nesti Dante 250g",
+        "price": 39.99,
+        "img": "23267061.jpeg",
+        "brand": "Nesti Dante",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 703815,
+        "name": "Sabonete em barra Dolce Vivere Roma Nesti Dante 250g",
+        "price": 39.99,
+        "img": "23267368.jpeg",
+        "brand": "Nesti Dante",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622106,
+        "name": "Leave In Antifrizz Inoar Resistance Flor De Lotus 250Ml",
+        "price": 10.29,
+        "img": "13039203.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622109,
+        "name": "Oleo De Tratamento Capilar Inoar Argan 60Ml",
+        "price": 29.99,
+        "img": "13038985.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 751249,
+        "name": "Máscara de Tratamento Capilar INOAR Fibra Bambu 1kg",
+        "price": 33.29,
+        "img": "19782128.jpg",
+        "brand": "Seda",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 679309,
+        "name": "Desfrizante Termoativado Inoar Argan Oil Thermoliss 240ml",
+        "price": 23.29,
+        "img": "19427035.png",
+        "brand": "Inoar",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 1001834,
+        "name": "ÁGUA MICELAR VULT - DEMAQUILANTE - 180ML",
+        "price": 23.99,
+        "img": "21047542.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 1258916,
+        "name": "SABONETE LÍQUIDO FACIAL VULT 150ML",
+        "price": 27.99,
+        "img": "23131744.png",
+        "brand": "Vult",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622105,
+        "name": "Leave In Finalizador Inoar Coleção Blends 300Ml",
+        "price": 15.49,
+        "img": "13038999.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 580997,
+        "name": "Inoar Cicatrifios Máscara Capilar 1Kg",
+        "price": 33.99,
+        "img": "13270651.png",
+        "brand": "Inoar",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 703816,
+        "name": "Sabonete em barra Lago Di Como Nesti Dante 250g",
+        "price": 39.99,
+        "img": "23267270.jpeg",
+        "brand": "Nesti Dante",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 427861,
+        "name": "Aparelho de Barbear Descartável Gillette Prestobarba UltraGrip3 c/4 Unidades",
+        "price": 17.23,
+        "img": "641853.png",
+        "brand": "Gillette",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 989819,
+        "name": "Siàge Shampoo Hair-Plastia 250Ml",
+        "price": 39.49,
+        "img": "21006887.jpeg",
+        "brand": "Siage",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 908446,
+        "name": "SABONETE LÍQUIDO FACIAL VULT 85ML",
+        "price": 18.49,
+        "img": "23539453.png",
+        "brand": "Vult",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622114,
+        "name": "Leave In Inoar Cicatrifios 50Ml",
+        "price": 11.49,
+        "img": "13038982.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622113,
+        "name": "Oleo Capilar Inoar De Coco 200Ml",
+        "price": 19.99,
+        "img": "13038826.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 480584,
+        "name": "Base BB Cream L'OREAL PARIS Efeito Matte 5 Em 1 Cor Média FP50 30ml",
+        "price": 41.99,
+        "img": "23669097.jpg",
+        "brand": "Loreal",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 751249,
+        "name": "Máscara de Tratamento Capilar INOAR Fibra Bambu 1kg",
+        "price": 33.29,
+        "img": "19782128.jpg",
+        "brand": "Seda",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 679309,
+        "name": "Desfrizante Termoativado Inoar Argan Oil Thermoliss 240ml",
+        "price": 23.29,
+        "img": "19427035.png",
+        "brand": "Inoar",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 1001834,
+        "name": "ÁGUA MICELAR VULT - DEMAQUILANTE - 180ML",
+        "price": 23.99,
+        "img": "21047542.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 1258916,
+        "name": "SABONETE LÍQUIDO FACIAL VULT 150ML",
+        "price": 27.99,
+        "img": "23131744.png",
+        "brand": "Vult",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 622105,
+        "name": "Leave In Finalizador Inoar Coleção Blends 300Ml",
+        "price": 15.49,
+        "img": "13038999.jpg",
+        "brand": "Pantene",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 580997,
+        "name": "Inoar Cicatrifios Máscara Capilar 1Kg",
+        "price": 33.99,
+        "img": "13270651.png",
+        "brand": "Inoar",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 703816,
+        "name": "Sabonete em barra Lago Di Como Nesti Dante 250g",
+        "price": 39.99,
+        "img": "23267270.jpeg",
+        "brand": "Nesti Dante",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 457855,
+        "name": "MINESOL OIL CONTR SE",
+        "price": 79.9,
+        "img": "18763815.jpg",
+        "brand": "Roc",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458369,
+        "name": "PHOTODERM NUD DOURAD",
+        "price": 99,
+        "img": "16770268.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458365,
+        "name": "SEBIUM PORE MOU PUMP",
+        "price": 105.5,
+        "img": "18680738.png",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458368,
+        "name": "PHOTODERM NUD CLARO",
+        "price": 99,
+        "img": "13033314.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 457843,
+        "name": "MINESOL ANTIOX FPS99",
+        "price": 99.9,
+        "img": "19470288.jpg",
+        "brand": "Roc",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 457844,
+        "name": "Protetor Solar Fluido Neostrata Minesol FPS 99 200ml",
+        "price": 84.9,
+        "img": "21507923.jpg",
+        "brand": "Roc",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 628773,
+        "name": "Creme Facial Antirrugas LA ROCHE Hyalu B5 40ml",
+        "price": 209.9,
+        "img": "14094139.jpg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458386,
+        "name": "SENSIBIO H2O MICELAR",
+        "price": 104.9,
+        "img": "12044096.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 458388,
+        "name": "SENSIBIO H2O 250ML",
+        "price": 104.9,
+        "img": "12047281.jpeg",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 457853,
+        "name": "MINESOL ACTIF LIGHT",
+        "price": 92.9,
+        "img": "21510556.jpg",
+        "brand": "Roc",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 381376,
+        "name": "Aparelho de Barbear BIC Soleil Sensitive com 2 Unidades",
+        "price": 12.79,
+        "img": "548781.jpg",
+        "brand": "Bic",
+        "category": "beleza-e-perfumaria"
+      },
+      {
+        "id": 705536,
+        "name": "Chá Verde Orgânico Organic 10 Sachês",
+        "price": 10.79,
+        "img": "22795801.jpeg",
+        "brand": "Hevea Foods",
+        "category": "bebidas"
+      },
+      {
+        "id": 139689,
+        "name": "Chá Herbal de Erva Doce TAEQ 22,5g com 15 Saquinhos",
+        "price": 6.49,
+        "img": "479701.jpg",
+        "brand": "Taeq",
+        "category": "bebidas"
+      },
+      {
+        "id": 556894,
+        "name": "Xarope Fabbri Sabor Amarena Zero Açúcar 560ml",
+        "price": 64.99,
+        "img": "11785827.png",
+        "brand": "Fabbri",
+        "category": "bebidas"
+      },
+      {
+        "id": 1387095,
+        "name": "Chá OETKER Vibre Mais 12g",
+        "price": 9.89,
+        "img": "24168004.jpg",
+        "brand": "Oetker",
+        "category": "bebidas"
+      },
+      {
+        "id": 1387096,
+        "name": "Chá OETKER Ame Mais 12g",
+        "price": 10.79,
+        "img": "24168006.jpg",
+        "category": "bebidas"
+      },
+      {
+        "id": 1105029,
+        "name": "Kombucha Manga Orgânica Tao Kombucha 275ml",
+        "price": 14.49,
+        "img": "23967854.png",
+        "category": "bebidas"
+      },
+      {
+        "id": 346266,
+        "name": "Bebida Uva com Cranberry Life Mix Caixa 200ml",
+        "price": 2.25,
+        "img": "19541720.jpg",
+        "brand": "Life Mix",
+        "category": "bebidas"
+      },
+      {
+        "id": 331030,
+        "name": " Limonada Orgânica NATIVE 200ml",
+        "price": 4.69,
+        "img": "601330.jpg",
+        "brand": "Native",
+        "category": "bebidas"
+      },
+      {
+        "id": 331032,
+        "name": "Nectar de Tangerina Orgânico NATIVE 200ML",
+        "price": 4.89,
+        "img": "601377.jpg",
+        "brand": "Native",
+        "category": "bebidas"
+      },
+      {
+        "id": 454143,
+        "name": "Água Tônica PRATA CLUB SODA Lata 269ml",
+        "price": 4.09,
+        "img": "16162423.png",
+        "brand": "Prata",
+        "category": "bebidas"
+      },
+      {
+        "id": 427796,
+        "name": "Refrigerante Citrus Prata Garrafa 200ml",
+        "price": 6.69,
+        "img": "16757403.jpeg",
+        "brand": "Prata",
+        "category": "bebidas"
+      },
+      {
+        "id": 331031,
+        "name": "Néctar Orgânico de Caju NATIVE 1 Litro",
+        "price": 19.69,
+        "img": "602344.png",
+        "brand": "Native",
+        "category": "bebidas"
+      },
+      {
+        "id": 454145,
+        "name": "Água Tônica PRATA Lata 269ml",
+        "price": 3.99,
+        "img": "15826848.png",
+        "brand": "Prata",
+        "category": "bebidas"
+      },
+      {
+        "id": 427794,
+        "name": "Água Tônica Prata Garrafa 200ml",
+        "price": 5.79,
+        "img": "16769286.jpeg",
+        "brand": "Prata",
+        "category": "bebidas"
+      },
+      {
+        "id": 129985,
+        "name": "Chá Mate Sabor Pêssego 40g com 25 Saquinhos",
+        "price": 6.39,
+        "img": "23239149.png",
+        "brand": "Qualitá",
+        "category": "bebidas"
+      },
+      {
+        "id": 58329,
+        "name": "Chá Misto Dr. OETKER 30g com 15 Saquinhos",
+        "price": 12.49,
+        "img": "523593.jpg",
+        "brand": "Dr.Oetker",
+        "category": "bebidas"
+      },
+      {
+        "id": 143060,
+        "name": "Alecrim CHINATOWN Pacote 20g",
+        "price": 4.89,
+        "img": "655516.png",
+        "brand": "CHINATOWN",
+        "category": "bebidas"
+      },
+      {
+        "id": 76206,
+        "name": "Chá Hortelã CHINATOWN Pacote 10g",
+        "price": 4.89,
+        "img": "655512.png",
+        "brand": "CHINATOWN",
+        "category": "bebidas"
+      },
+      {
+        "id": 412869,
+        "name": "Água Tônica Orgânico Ginger WEWI Garrafa 255ml",
+        "price": 5.99,
+        "img": "23970865.jpg",
+        "brand": "Wewi",
+        "category": "bebidas"
+      },
+      {
+        "id": 416099,
+        "name": "Chá Leão Senses Mate, Hibisco & Cereja 20g C/10",
+        "price": 17.29,
+        "img": "11854168.jpg",
+        "brand": "Leão",
+        "category": "bebidas"
+      },
+      {
+        "id": 429391,
+        "name": "Chá Ice Tea Leão Sabor Limão PET 1,5L",
+        "price": 7.29,
+        "img": "12047889.jpeg",
+        "brand": "Leão Fuze",
+        "category": "bebidas"
+      },
+      {
+        "id": 1385767,
+        "name": "Bebida De Aveia Orgânica Cacau Nude TO-GO 200ml",
+        "price": 5.69,
+        "img": "24072142.png",
+        "brand": "Nude",
+        "category": "bebidas"
+      },
+      {
+        "id": 79335,
+        "name": "Água de Coco TAEQ 200ml",
+        "price": 2.99,
+        "img": "23717491.jpg",
+        "brand": "Taeq",
+        "category": "bebidas"
+      },
+      {
+        "id": 1420250,
+        "name": "CHA LEAO GUARANA 20G",
+        "price": 9.29,
+        "img": "23979677.jpg",
+        "brand": "Leão",
+        "category": "bebidas"
+      },
+      {
+        "id": 1433060,
+        "name": "Refresco em Pó Limão Tang Pacote 18g",
+        "price": 1.19,
+        "img": "24031770.jpg",
+        "category": "bebidas"
+      },
+      {
+        "id": 142614,
+        "name": "Chá Verde CHINATOWN 20g",
+        "price": 9.89,
+        "img": "655522.png",
+        "brand": "Bandeiras",
+        "category": "bebidas"
+      },
+      {
+        "id": 306310,
+        "name": "Evian Águas Especiais Mineral Sem Gás 1L",
+        "price": 17.99,
+        "img": "13135425.jpeg",
+        "brand": "Evian",
+        "category": "bebidas"
+      },
+      {
+        "id": 306312,
+        "name": "Evian Águas Especiais Mineral Sem Gás 750ML",
+        "price": 19.79,
+        "img": "9499384.png",
+        "brand": "Evian",
+        "category": "bebidas"
+      },
+      {
+        "id": 176107,
+        "name": "Chá Morango Chá Leão Caixa 20g 10 Unidades",
+        "price": 8.29,
+        "img": "15064309.jpg",
+        "brand": "Leão",
+        "category": "bebidas"
+      },
+      {
+        "id": 685252,
+        "name": "Água Mineral Natural Voss Com Gás 800ml.",
+        "price": 41.79,
+        "img": "22074380.jpeg",
+        "brand": "Voss",
+        "category": "bebidas"
+      },
+      {
+        "id": 437792,
+        "name": "Bebida Funcional One More Sabor Cranberry e Guaraná lata 269ml",
+        "price": 7.19,
+        "img": "664339.jpg",
+        "brand": "One More",
+        "category": "bebidas"
+      }
+]
